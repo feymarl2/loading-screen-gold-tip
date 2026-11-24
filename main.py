@@ -26,6 +26,17 @@ Why it scores on the judge brief (criteria in order):
 Deterministic by construction: one constant string, no clock, no
 randomness, no environment reads, no network. Two runs write identical
 bytes. Plain open/write (roast pattern -- no temp files in /output).
+
+Local evaluation (independent evaluator subagent, 24 Nov 2026 ~23:10 WIB,
+report in candidates/EVALUATION.md): replica tournament mean 0.65 --
+beats the stock coffee/compile cliche (0.80) and the weak status message
+(0.95) but loses clearly to a strong field-style tip (0.20) that speaks
+to developer AND agent at once. Named risks, recorded honestly: the
+draft never puts the AI agent in the frame (criterion 4), the punchline
+lands late in a 126-char line (criterion 3), and it resolves onto the
+word "kompilasi", one of the cliche buckets the brief names (criterion 5).
+The draft is used verbatim anyway: it is the Musehood-approved line
+(LAYAK, msg 2886) and the parent's order fixes it word for word.
 """
 
 import os
